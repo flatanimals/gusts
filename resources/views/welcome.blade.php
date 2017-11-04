@@ -29,7 +29,7 @@
                    class="text-teal border-teal hover:bg-teal hover:text-white border-2 block py-2 px-3 rounded-full mr-3 no-underline">
                     Tailwind CSS Docs
                 </a>
-                <a href="https://tailwindcss.com/docs/what-is-tailwind/" target="_blank"
+                <a href="https://github.com/flatanimals/gusts" target="_blank"
                    class="text-white border-white hover:bg-white hover:text-black border-2 block py-2 px-3 rounded-full mr-3 no-underline">
                     View on Github
                 </a>
