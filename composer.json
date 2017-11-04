@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "flatanimals/gusts",
+    "description": "A Tailwind CSS playground",
+    "keywords": ["tailwind", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
