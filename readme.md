@@ -6,6 +6,8 @@ Gusts is a simple Tailwind CSS playground built with Laravel and Vue.js.
 
 Please refer to the [Laravel Docs](https://laravel.com/docs) for installation instructions.
 
+<img src="https://s3.amazonaws.com/coolertags/gusts.png">
+
 ## Made Possible By
 
 The following awesome packages made this possible.
