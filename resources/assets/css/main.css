@@ -24,6 +24,7 @@
  * @import "my-utilities/skew-transforms";
  */
 
+@import '../../../node_modules/codemirror/addon/hint/show-hint.css';
 
 .CodeMirror {
     height: 100% !important;

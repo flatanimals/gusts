@@ -51,6 +51,14 @@ require('codemirror/addon/fold/indent-fold.js');
 require('codemirror/addon/fold/markdown-fold.js');
 require('codemirror/addon/fold/xml-fold.js');
 
+require('codemirror/addon/hint/show-hint.js');
+require('codemirror/addon/hint/html-hint.js');
+
+
+require('codemirror/addon/edit/closetag.js');
+
+
+
 const app = new Vue({
   el: '#app',
   data() {
@@ -62,15 +70,16 @@ const app = new Vue({
       editorOptions: {
         tabSize: 4,
         mode: 'text/html',
-        // extraKeys: { "Ctrl": "autocomplete" },
-
+        extraKeys: {"Ctrl-Space": "autocomplete"},
         foldGutter: true,
         styleActiveLine: true,
         lineNumbers: true,
         line: true,
         keyMap: "sublime",
         theme: 'base16-dark',
-        viewportMargin: Infinity
+        viewportMargin: Infinity,
+        autoCloseTags: true,
+        lineWrapping: true,
       }
     }
   },
