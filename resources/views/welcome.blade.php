@@ -54,5 +54,6 @@
     </div>
 </div>
 <script src="{{ asset('js/app.js') }}"></script>
+@include('analytics')
 </body>
 </html>
