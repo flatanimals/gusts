@@ -15,6 +15,8 @@ The following awesome packages made this possible.
 - [Tailwind CSS](https://tailwindcss.com/).
 - [Laravel](https://laravel.com/).
 - [Vue.js](https://vuejs.org).
+- [CodeMirror](https://codemirror.net/).
+- [vue-codemirror](https://github.com/surmon-china/vue-codemirror).
 
 ## Security Vulnerabilities
 
