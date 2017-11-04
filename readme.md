@@ -1,6 +1,6 @@
 ## About Gusts
 
-Gusts is a simple Tailwind CSS playground with Laravel and Vue.js.
+Gusts is a simple Tailwind CSS playground built with Laravel and Vue.js.
 
 ## Installation
 
