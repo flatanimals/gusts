@@ -18,7 +18,7 @@
         <nav class="flex flex-row items-center justify-between">
             <div class="p-4">
                 <a href="/" class="text-white text-xl font-semibold no-underline">Gusts
-                    <small class="text-grey-lightest font-hairline text-sm">A Tailwind CSS playground</small>
+                    <small class="text-grey-lightest font-hairline text-sm">A Tailwind CSS playground (v0.1.4)</small>
                 </a></div>
             <div class="flex flex-row">
                 <button @click="code = ''"
