@@ -63,10 +63,9 @@ const app = new Vue({
   el: '#app',
   data() {
     return {
-      code: `<h1 class="text-center text-grey-darkest mb-4">Welcome to Gusts</h1>
-<div class="p-4 bg-white text-grey-darker border rounded shadow text-center">
-  <p>Gusts is a <a href="http://tailwindcss.com" class="no-underline text-teal font-semibold" target="_blank">Tailwind Css</a> playground. Build something cool.</p>
-</div>`,
+      code: `<div class="bg-white px-6 pt-6 py-10 rounded-lg shadow-lg">
+      <img src="https://camo.githubusercontent.com/97517e40f9727cc4637bea2d0e1b813d4639f8b2/68747470733a2f2f7461696c77696e646373732e636f6d2f696d672f7461696c77696e642e737667">
+      </div>`,
       editorOptions: {
         tabSize: 4,
         mode: 'text/html',

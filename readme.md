@@ -6,6 +6,19 @@ Gusts is a simple Tailwind CSS playground built with Laravel and Vue.js.
 
 ## Installation
 
+Make sure you have laravel, composer, and php installed in your machine.
+
+```
+    composer update
+    composer install
+    cp .env.example .env
+    php artisan key:generate
+    npm install
+```
+
+Now you can do `php artisan serve`
+
+
 Please refer to the [Laravel Docs](https://laravel.com/docs) for installation instructions.
 
 ## Made Possible By
